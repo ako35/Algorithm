@@ -1,7 +1,5 @@
 package InsertionSort;
 
-import SelectionSort.SelectionSort;
-
 import java.util.Arrays;
 
 public class InsertionSortRunner {
